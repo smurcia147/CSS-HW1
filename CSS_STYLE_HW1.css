@@ -1,0 +1,27 @@
+
+body{ background-color: lightblue; }
+
+		h1{  font-weight: bold;
+			color: green;
+
+
+		 }
+
+		p{font-family: sans-serif;}
+		p em{ font-weight: bolder;
+		font-family: arial; text-decoration: underline; }
+
+		img{float: left;}
+
+		#middle{ position: absolute;
+			top: 50pt;
+			left: 150pt;
+		 }
+
+		 .d{
+		 	position: absolute;
+		 	color: yellow;
+		 	right: 200;
+		 }
+		
+		
